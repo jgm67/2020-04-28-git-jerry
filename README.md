@@ -1,4 +1,4 @@
-# 2020-04-28-git-jerry
+# 2020-04-28: git collaboration notes
 #repository training 
 #used clone to mount github repo to local drive 
 #  git clone https://github.com/jgm67/2020-04-28-git-jerry.git
